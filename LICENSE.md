@@ -1,0 +1,1 @@
+All work GPL licensed.
