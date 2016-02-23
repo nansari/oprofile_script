@@ -1,5 +1,5 @@
 #!/bin/bash
-set -n
+#set -n
 # nasimuddin ansari : nasim.ansari (at) gmail.com
 # 16 Feb 2015, version 2, Tested in Production environment
 # references:
